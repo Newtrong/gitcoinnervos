@@ -1,6 +1,6 @@
 1.A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
 
-![avatar](Ntest005.png)
+![avatar](Ntest006.png)
 
 
 2. Your Deposit Receiver Address (in text format).
